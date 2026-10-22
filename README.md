@@ -21,7 +21,7 @@ Technology Manager with **9+ years** of leading engineering teams and shipping s
 
 **Claude Certified Architect (Anthropic)** · AWS, Azure and GCP certified · Media (advertising data) and Banking (payments) domains.
 
-### [🏆 Check Out My Full Portfolio Website](https://prawal-personal-brand.vercel.app)
+### 🏆 [Check Out My Full Portfolio Website](https://prawal-personal-brand.vercel.app)
 
 <div align="center">
 
