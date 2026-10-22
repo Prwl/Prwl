@@ -73,40 +73,46 @@ Technology Manager with **9+ years** of leading engineering teams and shipping s
 ## 🏅 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Anthropic-Claude_Certified_Architect-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified Architect">
-  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner">
-  <img src="https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Developer Associate">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Solutions Architect Associate">
-  <img src="https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Fundamentals">
-  <img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals">
-  <img src="https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Digital Leader">
-  <img src="https://img.shields.io/badge/Apollo-Graph_Developer_Professional-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo Graph Developer Professional">
-  <img src="https://img.shields.io/badge/Scrum_Alliance-CAL--E-009FDA?style=flat-square&logo=scrumalliance&logoColor=white" alt="Certified Agile Leadership Essentials">
+  <a href="https://www.credly.com/badges/467e2ffa-4f8f-42cc-9e96-fc10ab32ec36"><img src="https://img.shields.io/badge/Anthropic-Claude_Certified_Architect-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified Architect"></a>
+  <a href="https://www.credly.com/badges/d8c7e77d-605f-4620-b920-8b2018c0e650"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner"></a>
+  <a href="https://www.credly.com/badges/8e2c3313-8bbe-4e13-aca8-22109090bb54"><img src="https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Developer Associate"></a>
+  <a href="https://www.credly.com/badges/bda393db-4d7e-4cf7-8dc4-188c37b1f785"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Solutions Architect Associate"></a>
+  <a href="https://www.credly.com/badges/bb97745d-eea6-447d-8ec3-2d992f2abb51"><img src="https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Fundamentals"></a>
+  <a href="https://www.credly.com/badges/e0cda659-1a0c-42b2-9f6b-0eca5d3f3df8"><img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals"></a>
+  <a href="https://www.credly.com/badges/56d4e7b7-b32f-43f4-87b6-b2d038479e39"><img src="https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Digital Leader"></a>
+  <a href="https://www.linkedin.com/in/sharma-prawal/details/certifications/"><img src="https://img.shields.io/badge/Apollo-Graph_Developer_Professional-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo Graph Developer Professional"></a>
+  <a href="https://www.linkedin.com/in/sharma-prawal/details/certifications/"><img src="https://img.shields.io/badge/Scrum_Alliance-CAL--E-009FDA?style=flat-square" alt="Certified Agile Leadership Essentials"></a>
 </p>
 
 <details>
-<summary><b>All certifications & awards</b></summary>
+<summary><b>All certifications</b></summary>
 
-**Certifications**
-- Anthropic — Claude Certified Architect – Foundations (2026)
-- AWS — Certified AI Practitioner (2025); Certified Developer – Associate (2022); Certified Solutions Architect – Associate (2021); AWS Partner Cloud Economics, Business & Technical accreditations
-- Microsoft — Azure AI Fundamentals (2022); Security, Compliance & Identity Fundamentals (2022); Azure Data Fundamentals (2021); Azure Fundamentals AZ-900 (2021)
-- Google Cloud — Cloud Digital Leader
-- Apollo GraphQL — Graph Developer – Professional (2022); Graph Developer – Associate (2022)
-- Scrum Alliance — Certified Agile Leadership Essentials, CAL-E (2023)
-- ICTRD — Artificial Intelligence and Machine Learning Program (2026)
-- HackerRank — 11 skill certificates (JavaScript, Node.js, REST API, React, SQL Advanced, Problem Solving)
+- **Anthropic** — [Claude Certified Architect – Foundations](https://www.credly.com/badges/467e2ffa-4f8f-42cc-9e96-fc10ab32ec36) (2026)
+- **AWS** — [Certified AI Practitioner](https://www.credly.com/badges/d8c7e77d-605f-4620-b920-8b2018c0e650) (2025); [Certified Developer – Associate](https://www.credly.com/badges/8e2c3313-8bbe-4e13-aca8-22109090bb54) (2022); [Certified Solutions Architect – Associate](https://www.credly.com/badges/bda393db-4d7e-4cf7-8dc4-188c37b1f785) (2021); AWS Partner [Cloud Economics](https://www.credly.com/badges/4c1636b7-2a85-49cb-ba88-5a91a2dc4590), [Business](https://www.credly.com/badges/2f7cf415-0cb6-4cf1-8e29-4a5998518b9f) & [Technical](https://www.credly.com/badges/b100da38-c2e7-45f0-891a-846a580cd553) accreditations
+- **Microsoft** — [Azure AI Fundamentals](https://www.credly.com/badges/bb97745d-eea6-447d-8ec3-2d992f2abb51) (2022); [Security, Compliance & Identity Fundamentals](https://www.credly.com/badges/2c204e59-54ce-4375-8973-ef4f3cba1dfd) (2022); [Azure Data Fundamentals](https://www.credly.com/badges/ae5db517-5e17-402b-aa62-9ba9314669e4) (2021); [Azure Fundamentals AZ-900](https://www.credly.com/badges/e0cda659-1a0c-42b2-9f6b-0eca5d3f3df8) (2021)
+- **Google Cloud** — [Cloud Digital Leader](https://www.credly.com/badges/56d4e7b7-b32f-43f4-87b6-b2d038479e39)
+- **Apollo GraphQL** — Graph Developer – Professional (2022); Graph Developer – Associate (2022)
+- **Scrum Alliance** — Certified Agile Leadership Essentials, CAL-E (2023)
+- **ICTRD** — Artificial Intelligence and Machine Learning Program (2026)
+- **HackerRank** — [11 skill certificates](https://www.hackerrank.com/profile/PrawalSharma) (JavaScript, Node.js, REST API, React, SQL Advanced, Problem Solving)
 
-**Honours & awards**
-- ESOP Ownership Achievement · Outstanding Contribution — May 2026
-- Employee of the Year — 2023
-- Key Contributor · Longevity Award — Apr 2023
-- Exceptional Performer — Mar 2022
-- Extra Achiever's Award — Mar 2021
-- Client Happiness · Star Performer — 2019
-- Star Performer — Jul 2018
+All verified badges: [credly.com/users/prawal-sharma](https://www.credly.com/users/prawal-sharma.a0beae1f) · full list on [LinkedIn](https://www.linkedin.com/in/sharma-prawal/details/certifications/)
 
 </details>
+
+## 🎖️ Honours & awards
+
+| Award | When |
+|---|---|
+| ESOP Ownership Achievement | May 2026 |
+| Outstanding Contribution | May 2026 |
+| Employee of the Year | 2023 |
+| Key Contributor | Apr 2023 |
+| Longevity Award | Apr 2023 |
+| Exceptional Performer | Mar 2022 |
+| Extra Achiever's Award | Mar 2021 |
+| Client Happiness | Mar 2019 |
+| Star Performer | Feb 2019 · Jul 2018 |
 
 ## 📊 GitHub activity
 
