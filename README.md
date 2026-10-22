@@ -52,13 +52,13 @@ Technology Manager with **9+ years** of leading engineering teams and shipping s
 
 | Project | What it is |
 |---|---|
-| [prawal-personal-brand](https://github.com/Prwl/prawal-personal-brand) | My portfolio site — [live](https://prawal-personal-brand.vercel.app) |
-| [prawal-the-series](https://github.com/Prwl/prawal-the-series) | A streaming-style, cinematic take on my career — [live](https://prawal-the-series.vercel.app) |
-| [prawal-cinematic-portfolio](https://github.com/Prwl/prawal-cinematic-portfolio) | Scroll-driven cinematic portfolio experiments |
-| [personal-assistant](https://github.com/Prwl/personal-assistant) | J.A.R.V.I.S. — a FastAPI + LLM daily-briefing assistant with browser agents |
-| [fbp-bills](https://github.com/Prwl/fbp-bills) | FBP Studio — generates monthly reimbursement PDFs from saved defaults |
-| [easy-notes-app](https://github.com/Prwl/easy-notes-app) | Inkleaf — an offline-first Android notes app (Kotlin) |
-| [gemini-tic-tac-toe-3d](https://github.com/Prwl/gemini-tic-tac-toe-3d) | 3D tic-tac-toe in Three.js with an AI opponent |
+| [prawal-personal-brand](https://github.com/sharma-prawal/prawal-personal-brand) | My portfolio site — [live](https://prawal-personal-brand.vercel.app) |
+| [prawal-the-series](https://github.com/sharma-prawal/prawal-the-series) | A streaming-style, cinematic take on my career — [live](https://prawal-the-series.vercel.app) |
+| [prawal-cinematic-portfolio](https://github.com/sharma-prawal/prawal-cinematic-portfolio) | Scroll-driven cinematic portfolio experiments |
+| [personal-assistant](https://github.com/sharma-prawal/personal-assistant) | J.A.R.V.I.S. — a FastAPI + LLM daily-briefing assistant with browser agents |
+| [fbp-bills](https://github.com/sharma-prawal/fbp-bills) | FBP Studio — generates monthly reimbursement PDFs from saved defaults |
+| [easy-notes-app](https://github.com/sharma-prawal/easy-notes-app) | Inkleaf — an offline-first Android notes app (Kotlin) |
+| [gemini-tic-tac-toe-3d](https://github.com/sharma-prawal/gemini-tic-tac-toe-3d) | 3D tic-tac-toe in Three.js with an AI opponent |
 
 ## 🧰 Tech stack
 
@@ -111,14 +111,14 @@ Technology Manager with **9+ years** of leading engineering teams and shipping s
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prwl&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prwl&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharma-prawal&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-prawal&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Prwl&hide_border=true&theme=tokyonight" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=sharma-prawal&hide_border=true&theme=tokyonight" alt="Contribution streak" />
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prwl/Prwl/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Prwl/Prwl/output/github-snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharma-prawal/sharma-prawal/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sharma-prawal/sharma-prawal/output/github-snake.svg" alt="Contribution snake" />
   </picture>
 </div>
 
