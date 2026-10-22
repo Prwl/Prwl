@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Prawal Sharma 👋
+<a href="https://prawal-personal-brand.vercel.app"><img src="assets/banner.svg" width="100%" alt="Prawal Sharma — Technology Manager · AI-Driven Engineering Leader · Cloud & Scalable Systems" /></a>
 
 <a href="https://prawal-personal-brand.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5383B&center=true&vCenter=true&width=640&lines=Technology+Manager+%40+Successive+Digital;AI-Driven+Engineering+Leader;LLMs+%C2%B7+Agentic+AI+%C2%B7+MCP;Cloud-Native+%26+Scalable+Systems;9%2B+years+building+for+global+clients" alt="Typing intro" />
@@ -48,17 +48,60 @@ Technology Manager with **9+ years** of leading engineering teams and shipping s
 - **AI-Driven Datasource Intelligence** *(AI/ML POC · 2026)* — predicts pipeline schedule risk before the first run using XGBoost with explainable AI.
 - **Taxonomy** *(Media advertising)* — dependency-driven spreadsheet engine generating unique campaign identifiers (React, GraphQL, Apollo, Node.js, MongoDB).
 
-### 🛠️ Things I've built on my own time
+## 🛠️ Things I've built on my own time
 
-| Project | What it is |
-|---|---|
-| [prawal-personal-brand](https://github.com/sharma-prawal/prawal-personal-brand) | My portfolio site — [live](https://prawal-personal-brand.vercel.app) |
-| [prawal-the-series](https://github.com/sharma-prawal/prawal-the-series) | A streaming-style, cinematic take on my career — [live](https://prawal-the-series.vercel.app) |
-| [prawal-cinematic-portfolio](https://github.com/sharma-prawal/prawal-cinematic-portfolio) | Scroll-driven cinematic portfolio experiments |
-| [personal-assistant](https://github.com/sharma-prawal/personal-assistant) | J.A.R.V.I.S. — a FastAPI + LLM daily-briefing assistant with browser agents |
-| [fbp-bills](https://github.com/sharma-prawal/fbp-bills) | FBP Studio — generates monthly reimbursement PDFs from saved defaults |
-| [easy-notes-app](https://github.com/sharma-prawal/easy-notes-app) | Inkleaf — an offline-first Android notes app (Kotlin) |
-| [gemini-tic-tac-toe-3d](https://github.com/sharma-prawal/gemini-tic-tac-toe-3d) | 3D tic-tac-toe in Three.js with an AI opponent |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://prawal-personal-brand.vercel.app"><img src="assets/projects/prawal-personal-brand.jpg" alt="Personal brand portfolio" /></a>
+      <br/><b>Portfolio</b> — career journey, projects, awards and certifications
+      <br/><a href="https://prawal-personal-brand.vercel.app">Live</a> · <a href="https://github.com/sharma-prawal/prawal-personal-brand">Code</a> · <sub>React · Tailwind · Framer Motion</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://prawal-the-series.vercel.app"><img src="assets/projects/prawal-the-series.jpg" alt="Prawal — The Series" /></a>
+      <br/><b>Prawal — The Series</b> — my career as a streaming-style series
+      <br/><a href="https://prawal-the-series.vercel.app">Live</a> · <a href="https://github.com/sharma-prawal/prawal-the-series">Code</a> · <sub>React · TypeScript · Lenis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://project-tajmahal.vercel.app"><img src="assets/projects/project-tajmahal.jpg" alt="Project Taj" /></a>
+      <br/><b>Project Taj</b> — third-person 3D exploration of a Taj Mahal garden
+      <br/><a href="https://project-tajmahal.vercel.app">Live</a> · <a href="https://github.com/sharma-prawal/project-tajmahal">Code</a> · <sub>Three.js · React Three Fiber</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://praashi.fun"><img src="assets/projects/anniversary-game.jpg" alt="Our Story: A Love Quest" /></a>
+      <br/><b>Our Story: A Love Quest</b> — a story-driven 2D adventure game
+      <br/><a href="https://praashi.fun">Play</a> · <a href="https://github.com/sharma-prawal/anniversary-game">Code</a> · <sub>Phaser 3 · Vite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://north-atlas-3e6f.vercel.app"><img src="assets/projects/custom-2d-rpg.jpg" alt="Chapters of Us" /></a>
+      <br/><b>Chapters of Us</b> — a narrative 2D RPG
+      <br/><a href="https://north-atlas-3e6f.vercel.app">Play</a> · <a href="https://github.com/sharma-prawal/custom-2d-rpg">Code</a> · <sub>Phaser 3 · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://gemini-tic-tac-toe-3d.vercel.app"><img src="assets/projects/gemini-tic-tac-toe-3d.jpg" alt="3D Tic Tac Toe" /></a>
+      <br/><b>3D Tic Tac Toe</b> — polished Three.js game with PvP and AI modes
+      <br/><a href="https://gemini-tic-tac-toe-3d.vercel.app">Play</a> · <a href="https://github.com/sharma-prawal/gemini-tic-tac-toe-3d">Code</a> · <sub>Three.js · GSAP · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://drive.google.com/file/d/13aSm6vWk6QgMb-ql8sTBPFigEvJll7xN/view?usp=drive_link"><img src="assets/projects/easy-notes-app.jpg" alt="Inkleaf" /></a>
+      <br/><b>Inkleaf</b> — an offline-first Android notes app
+      <br/><a href="https://drive.google.com/file/d/13aSm6vWk6QgMb-ql8sTBPFigEvJll7xN/view?usp=drive_link">Download APK</a> · <a href="https://github.com/sharma-prawal/easy-notes-app">Code</a> · <sub>Kotlin · Android</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sunriseschoolkandi.org/"><img src="assets/projects/updated-sunrise-public-school.jpg" alt="Sun Rise Model Public School" /></a>
+      <br/><b>Sun Rise Model Public School</b> — the school's website
+      <br/><a href="https://sunriseschoolkandi.org/">Live</a> · <a href="https://github.com/sharma-prawal/updated-sunrise-public-school">Code</a> · <sub>React · Vite · Tailwind</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>More: <a href="https://github.com/sharma-prawal/fbp-bills">fbp-bills</a> (reimbursement PDF studio) · <a href="https://github.com/sharma-prawal/tic-tac-toe-minimax">Quantum Tic-Tac-Toe</a> · <a href="https://github.com/sharma-prawal/prawal-cinematic-portfolio">cinematic portfolio</a> · <a href="https://github.com/sharma-prawal?tab=repositories">all repositories →</a></sub>
 
 ## 🧰 Tech stack
 
@@ -117,7 +160,7 @@ All verified badges: [credly.com/users/prawal-sharma](https://www.credly.com/use
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharma-prawal&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharma-prawal&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars,issues&hide_border=true&theme=tokyonight&cache_seconds=21600" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-prawal&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=sharma-prawal&hide_border=true&theme=tokyonight" alt="Contribution streak" />
@@ -127,6 +170,11 @@ All verified badges: [credly.com/users/prawal-sharma](https://www.credly.com/use
     <img src="https://raw.githubusercontent.com/sharma-prawal/sharma-prawal/output/github-snake.svg" alt="Contribution snake" />
   </picture>
 </div>
+
+### 🔄 Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🎓 Education & more
 
