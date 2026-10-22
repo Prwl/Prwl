@@ -174,6 +174,12 @@ All verified badges: [credly.com/users/prawal-sharma](https://www.credly.com/use
 ### 🔄 Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/sharma-prawal/new-project/pull/1) in [sharma-prawal/new-project](https://github.com/sharma-prawal/new-project)
+2. 💪 Opened PR [#1](https://github.com/sharma-prawal/new-project/pull/1) in [sharma-prawal/new-project](https://github.com/sharma-prawal/new-project)
+3. 🎉 Merged PR [#1](https://github.com/sharma-prawal/updated-sunrise-public-school/pull/1) in [sharma-prawal/updated-sunrise-public-school](https://github.com/sharma-prawal/updated-sunrise-public-school)
+4. 🎉 Merged PR [#1](https://github.com/sharma-prawal/personal-app/pull/1) in [sharma-prawal/personal-app](https://github.com/sharma-prawal/personal-app)
+5. 🎉 Merged PR [#1](https://github.com/sharma-prawal/easy-notes-app/pull/1) in [sharma-prawal/easy-notes-app](https://github.com/sharma-prawal/easy-notes-app)
+6. 🎉 Merged PR [#1](https://github.com/sharma-prawal/anniversary-app/pull/1) in [sharma-prawal/anniversary-app](https://github.com/sharma-prawal/anniversary-app)
 <!--END_SECTION:activity-->
 
 ## 🎓 Education & more
