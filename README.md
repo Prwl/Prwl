@@ -8,7 +8,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/sharma-prawal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://prawal-personal-brand.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-5A32A3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.credly.com/users/prawal-sharma.a0beae1f"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
   <a href="https://www.hackerrank.com/profile/PrawalSharma"><img src="https://img.shields.io/badge/HackerRank-11_Certificates-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="mailto:prawal0007@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -21,6 +20,8 @@
 Technology Manager with **9+ years** of leading engineering teams and shipping scalable, high-impact systems for global clients across the **US, UK and South Africa**. I specialise in AI-enabled, cloud-native solutions — LLM integrations, intelligent automation, microservices, event-driven and serverless architecture — pairing strong engineering fundamentals with modern AI tooling.
 
 **Claude Certified Architect (Anthropic)** · AWS, Azure and GCP certified · Media (advertising data) and Banking (payments) domains.
+
+### [🏆 Check Out My Full Portfolio Website](https://prawal-personal-brand.vercel.app)
 
 <div align="center">
 
