@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="416" viewBox="0 0 1200 416" role="img" aria-label="Honours and awards: Employee of the Year (2023); ESOP Ownership Achievement (May 2026); Outstanding Contribution (May 2026); Key Contributor (Apr 2023); Longevity Award (Apr 2023); Exceptional Performer (Mar 2022); Extra Achiever's Award (Mar 2021); Client Happiness (Mar 2019); Star Performer ×2 (Feb 2019 · Jul 2018)">
+  <title>Honours and awards: Employee of the Year (2023); ESOP Ownership Achievement (May 2026); Outstanding Contribution (May 2026); Key Contributor (Apr 2023); Longevity Award (Apr 2023); Exceptional Performer (Mar 2022); Extra Achiever's Award (Mar 2021); Client Happiness (Mar 2019); Star Performer ×2 (Feb 2019 · Jul 2018)</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f19"/><stop offset="0.6" stop-color="#141a2e"/><stop offset="1" stop-color="#1f0f1a"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <linearGradient id="accRib" x1="0" x2="1"><stop offset="0" stop-color="#e5383b"/><stop offset="1" stop-color="#4f7cff"/></linearGradient>
+    <radialGradient id="accDisc" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#7d9cff"/><stop offset="1" stop-color="#3a4fb0"/></radialGradient>
+    <linearGradient id="goldRib" x1="0" x2="1"><stop offset="0" stop-color="#e5383b"/><stop offset="1" stop-color="#b3261e"/></linearGradient>
+    <radialGradient id="goldDisc" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffe9a3"/><stop offset="1" stop-color="#c8901e"/></radialGradient>
+    <linearGradient id="goldEdge" x1="0" x2="1"><stop offset="0" stop-color="#ffd76a"/><stop offset="1" stop-color="#c8901e"/></linearGradient>
+    <linearGradient id="goldCard" x1="0" x2="1"><stop offset="0" stop-color="#ffd76a" stop-opacity="0.16"/><stop offset="1" stop-color="#ffd76a" stop-opacity="0.04"/></linearGradient>
+    <style>
+      .title { font: 700 21px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f5f3ef; }
+      .title.gold { fill: #ffe39a; }
+      .when { font: 600 13px ui-monospace, "SF Mono", Menlo, Consolas, monospace; fill: #a9adbf; letter-spacing: 1.5px; }
+      .tag { font: 700 11px ui-monospace, "SF Mono", Menlo, Consolas, monospace; fill: #ffd76a; letter-spacing: 2px; }
+      .card { animation: rise .6s ease-out both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+      @media (prefers-reduced-motion: reduce) { .card { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="416" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="416" rx="18" fill="url(#grid)"/>
+
+  <g class="card" style="animation-delay:0.00s">
+    <rect x="24.0" y="24" width="373.3" height="112" rx="14" fill="url(#goldCard)" stroke="url(#goldEdge)" stroke-width="2"/>
+    
+    <g transform="translate(70.0 80.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#goldRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#goldDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="110.0" y="76.0" class="title gold" style="font-size:21px">Employee of the Year</text>
+    <text x="110.0" y="102.0" class="when">2023</text>
+    <text x="379.3" y="120" text-anchor="end" class="tag">HIGHLIGHT</text>
+  </g>
+  <g class="card" style="animation-delay:0.08s">
+    <rect x="413.3" y="24" width="373.3" height="112" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+    
+    <g transform="translate(459.3333333333333 80.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#accRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#accDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="499.3" y="76.0" class="title" style="font-size:18px">ESOP Ownership Achievement</text>
+    <text x="499.3" y="102.0" class="when">MAY 2026</text>
+    
+  </g>
+  <g class="card" style="animation-delay:0.16s">
+    <rect x="802.7" y="24" width="373.3" height="112" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+    
+    <g transform="translate(848.6666666666666 80.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#accRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#accDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="888.7" y="76.0" class="title" style="font-size:18px">Outstanding Contribution</text>
+    <text x="888.7" y="102.0" class="when">MAY 2026</text>
+    
+  </g>
+  <g class="card" style="animation-delay:0.24s">
+    <rect x="24.0" y="152" width="373.3" height="112" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+    
+    <g transform="translate(70.0 208.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#accRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#accDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="110.0" y="204.0" class="title" style="font-size:21px">Key Contributor</text>
+    <text x="110.0" y="230.0" class="when">APR 2023</text>
+    
+  </g>
+  <g class="card" style="animation-delay:0.32s">
+    <rect x="413.3" y="152" width="373.3" height="112" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+    
+    <g transform="translate(459.3333333333333 208.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#accRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#accDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="499.3" y="204.0" class="title" style="font-size:21px">Longevity Award</text>
+    <text x="499.3" y="230.0" class="when">APR 2023</text>
+    
+  </g>
+  <g class="card" style="animation-delay:0.40s">
+    <rect x="802.7" y="152" width="373.3" height="112" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+    
+    <g transform="translate(848.6666666666666 208.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#accRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#accDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="888.7" y="204.0" class="title" style="font-size:21px">Exceptional Performer</text>
+    <text x="888.7" y="230.0" class="when">MAR 2022</text>
+    
+  </g>
+  <g class="card" style="animation-delay:0.48s">
+    <rect x="24.0" y="280" width="373.3" height="112" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+    
+    <g transform="translate(70.0 336.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#accRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#accDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="110.0" y="332.0" class="title" style="font-size:21px">Extra Achiever's Award</text>
+    <text x="110.0" y="358.0" class="when">MAR 2021</text>
+    
+  </g>
+  <g class="card" style="animation-delay:0.56s">
+    <rect x="413.3" y="280" width="373.3" height="112" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+    
+    <g transform="translate(459.3333333333333 336.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#accRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#accDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="499.3" y="332.0" class="title" style="font-size:21px">Client Happiness</text>
+    <text x="499.3" y="358.0" class="when">MAR 2019</text>
+    
+  </g>
+  <g class="card" style="animation-delay:0.64s">
+    <rect x="802.7" y="280" width="373.3" height="112" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.12"/>
+    
+    <g transform="translate(848.6666666666666 336.0)">
+      <path d="M-11 -30 L-3 -8 L3 -8 L11 -30 L5 -30 L0 -16 L-5 -30 Z" fill="url(#accRib)" opacity="0.9"/>
+      <circle cx="0" cy="6" r="17" fill="url(#accDisc)"/>
+      <circle cx="0" cy="6" r="12" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+      <path d="M0 -1 L2.4 3.9 L7.8 4.6 L3.9 8.4 L4.8 13.7 L0 11.2 L-4.8 13.7 L-3.9 8.4 L-7.8 4.6 L-2.4 3.9 Z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
+    <text x="888.7" y="332.0" class="title" style="font-size:21px">Star Performer ×2</text>
+    <text x="888.7" y="358.0" class="when">FEB 2019 · JUL 2018</text>
+    
+  </g>
+</svg>

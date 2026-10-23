@@ -145,17 +145,9 @@ All verified badges: [credly.com/users/sharma-prawal](https://www.credly.com/use
 
 ## 🎖️ Honours & awards
 
-| Award | When |
-|---|---|
-| ESOP Ownership Achievement | May 2026 |
-| Outstanding Contribution | May 2026 |
-| Employee of the Year | 2023 |
-| Key Contributor | Apr 2023 |
-| Longevity Award | Apr 2023 |
-| Exceptional Performer | Mar 2022 |
-| Extra Achiever's Award | Mar 2021 |
-| Client Happiness | Mar 2019 |
-| Star Performer | Feb 2019 · Jul 2018 |
+<p align="center">
+  <img src="assets/awards.svg" width="100%" alt="Honours and awards: Employee of the Year (2023); ESOP Ownership Achievement (May 2026); Outstanding Contribution (May 2026); Key Contributor (Apr 2023); Longevity Award (Apr 2023); Exceptional Performer (Mar 2022); Extra Achiever's Award (Mar 2021); Client Happiness (Mar 2019); Star Performer (Feb 2019, Jul 2018)" />
+</p>
 
 ## 📊 GitHub activity
 
